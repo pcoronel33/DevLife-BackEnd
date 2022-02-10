@@ -30,7 +30,7 @@
     "mongoose": "^5.4.3",
     "mongoose-mongodb-errors": "0.0.2",
     "morgan": "^1.9.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nodemailer": "^5.1.1",
     "nodemon": "^1.19.4",
     "uuid": "^3.3.2"
